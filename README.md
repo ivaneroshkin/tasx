@@ -1,8 +1,10 @@
 # TASX
 
-## Introduction
+## Overview
 
-TASX is a minimal todo list mobile application bootstrapped from [create-expo-app](https://docs.expo.dev/get-started/create-a-new-app/)
+TASX is an essential planner developed using the React Native cross-platform library for the iOS platform. This tool focuses on simplicity and efficiency, providing users with easy task management. With a minimalist interface, TASX allows users to organize their lives without unnecessary distractions. TASX offers the necessary features for effective task planning and management anytime, anywhere
+
+TASX is a mobile application bootstrapped from [create-expo-app](https://docs.expo.dev/get-started/create-a-new-app/)
 
 ### Tech Stack
 
